@@ -1,0 +1,18 @@
+.innerDiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 90px;
+}
+
+.section {
+  margin: 1rem auto;
+  min-width: 350px;
+  padding: 1rem;
+  text-align: center;
+  background-color: rgb(248,248,248);
+}
+
+.place {
+    overflow-y: auto;
+}

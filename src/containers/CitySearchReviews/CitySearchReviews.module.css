@@ -1,0 +1,18 @@
+.error {
+    text-align: center;
+    color: red;
+    font-weight: 300;
+}
+
+.loading {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.container {
+    text-align: center;
+    display: inline-block;
+    margin: 2rem;
+  }

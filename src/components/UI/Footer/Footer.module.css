@@ -1,0 +1,13 @@
+.footer {
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  padding: 0 5%;
+}
+
+.footer p {
+  font-size: 14px;
+  font-weight: 200;
+}
+.copyright {
+  text-align: center;
+}
